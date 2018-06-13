@@ -1,0 +1,11 @@
+1) create a list with user defined input
+2) add following list to above created list:
+["google","apple","facebook","microdsoft","tesla"]
+3) count the number of time an object occurs in list.
+4) create a list with numbers and sort in ascending order.
+5) given are 2-d array A and B which are sorrted in ascending order. write a program
+to merge them into a single sorted array C that contains every item from arrays A and B ,in ascending order .[list] 
+6) implemented a stack and queue using list
+
+optional que-
+1) count even nd odd no in list
